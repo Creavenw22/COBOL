@@ -1,0 +1,8 @@
+D:\##Bustamante\COBOL\Calculadura\Main\bin\Debug\Main.exe
+D:\##Bustamante\COBOL\Calculadura\Main\bin\Debug\Main.pdb
+D:\##Bustamante\COBOL\Calculadura\Main\bin\Debug\Main.Main_Program1.idy
+D:\##Bustamante\COBOL\Calculadura\Main\obj\Debug\Main.cblprojAssemblyReference.cache
+D:\##Bustamante\COBOL\Calculadura\Main\obj\Debug\Main.cblproj.CoreCompileInputs.cache
+D:\##Bustamante\COBOL\Calculadura\Main\obj\Debug\Main.Main_Program1.idy
+D:\##Bustamante\COBOL\Calculadura\Main\obj\Debug\Main.exe
+D:\##Bustamante\COBOL\Calculadura\Main\obj\Debug\Main.pdb
